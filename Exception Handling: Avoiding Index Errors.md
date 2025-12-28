@@ -23,3 +23,4 @@ except:
 <img width="402" height="584" alt="image" src="https://github.com/user-attachments/assets/3e98dd52-39c3-4f09-b35b-70c40ae8db3a" />
 
 ## Result
+Thus, we were successfully able to write a Python program that handles an **IndexError** when trying to access an element beyond the available range of a list.
